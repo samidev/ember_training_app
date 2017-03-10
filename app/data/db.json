@@ -1,0 +1,68 @@
+{
+  "contacts": [
+    {
+      "id": "58c294120d730a990b97e9ea",
+      "firstName": "Marilyn",
+      "lastName": "Moreno",
+      "emailAddress": "marilynmoreno@rotodyne.com",
+      "homePhone": "+1 (851) 491-2362",
+      "workPhone": "+1 (847) 600-3417"
+    },
+    {
+      "id": "58c29412e8347e08506a1fb7",
+      "firstName": "Hunt",
+      "lastName": "Dorsey",
+      "emailAddress": "huntdorsey@rotodyne.com",
+      "homePhone": "+1 (930) 540-2473",
+      "workPhone": "+1 (936) 576-2402"
+    },
+    {
+      "id": "58c294122c33d8749851981d",
+      "firstName": "Burt",
+      "lastName": "Wagner",
+      "emailAddress": "burtwagner@rotodyne.com",
+      "homePhone": "+1 (814) 422-3816",
+      "workPhone": "+1 (805) 574-3467"
+    },
+    {
+      "id": "58c294124cd270bf50d4298f",
+      "firstName": "Catherine",
+      "lastName": "Willis",
+      "emailAddress": "catherinewillis@rotodyne.com",
+      "homePhone": "+1 (871) 433-2750",
+      "workPhone": "+1 (912) 408-3110"
+    },
+    {
+      "id": "58c29412c9ece8ec17f3f8b4",
+      "firstName": "Gracie",
+      "lastName": "Sims",
+      "emailAddress": "graciesims@rotodyne.com",
+      "homePhone": "+1 (942) 463-2178",
+      "workPhone": "+1 (836) 524-3703"
+    },
+    {
+      "id": "58c294129be3852954812534",
+      "firstName": "Winters",
+      "lastName": "Calderon",
+      "emailAddress": "winterscalderon@rotodyne.com",
+      "homePhone": "+1 (840) 576-3996",
+      "workPhone": "+1 (940) 549-2313"
+    },
+    {
+      "id": "58c294129a9ceeb9008e1e7c",
+      "firstName": "Lilia",
+      "lastName": "Griffin",
+      "emailAddress": "liliagriffin@rotodyne.com",
+      "homePhone": "+1 (843) 478-2203",
+      "workPhone": "+1 (927) 583-2209"
+    },
+    {
+      "id": "58c294125e79c55d86b4ab89",
+      "firstName": "Susan",
+      "lastName": "Blankenship",
+      "emailAddress": "susanblankenship@rotodyne.com",
+      "homePhone": "+1 (935) 590-3512",
+      "workPhone": "+1 (866) 479-3055"
+    }
+  ]
+}
